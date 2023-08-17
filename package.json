@@ -1,0 +1,13 @@
+{
+  "name": "name.klep.transitions",
+  "version": "2.1.0",
+  "description": "Flexible time transitions",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+  },
+  "author": "Robert Klep <robert@klep.name>",
+  "license": "MIT"
+}
